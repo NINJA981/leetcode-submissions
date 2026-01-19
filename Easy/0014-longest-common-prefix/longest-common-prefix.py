@@ -1,0 +1,19 @@
+from typing import List
+
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        if not strs:
+            return ""
+        
+        # Sort the strings lexicographically
+        strs.sort()
+        
+        # The common prefix must be shared by the first and last string
+        first = strs[0]
+        last = strs[-1]
+        i = 0
+        
+        while i < len(first) and i < len(last) and first[i] == last[i]:
+            i += 1
+            
+        return first[:i]

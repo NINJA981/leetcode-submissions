@@ -1,0 +1,9 @@
+class Solution:
+    def closeStrings(self, word1: str, word2: str) -> bool:
+
+        return len(word1) == len(word2) and set(word1)==set(word2) and sorted(list(collections.Counter(word1).values()))== sorted(list(collections.Counter(word2).values()))
+        
+        
+        
+
+        

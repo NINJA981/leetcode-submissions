@@ -7,14 +7,14 @@ class Solution {
             char c[] = S.toCharArray();
             Arrays.sort(c);
             String key = new String(c);
-            if (map.containsKey(key)){
-                map.get(key).add(S);
+            if (!map.containsKey(key)){
+                map.put(key,new ArrayList<>());
 
             }
-            else{
-                map.put(key,new ArrayList<>());
+            
+                
                 map.get(key).add(S);
-            }
+            
             
 
 

@@ -5,28 +5,24 @@ class Solution {
             
             freq.put(num , freq.getOrDefault(num,0)+ 1);
         }
-        List<Map.Entry<Integer , Integer>> list = new ArrayList<>(freq.entrySet());
+        
+        int [] result = new int[k];
+        int count = 0;
 
+        PriorityQueue<Map.Entry<Integer, Integer>> heap =
+    new PriorityQueue<>((a, b) -> Integer.compare(a.getValue(), b.getValue()));
 
-        list.sort((a,b) -> b.getValue() - a.getValue());
-
-        int[] result = new int[k];
-
-        for (int i = 0; i < k; i++) {
-        result[i] = list.get(i).getKey();
+    for(Map.Entry<Integer,Integer> entry : freq.entrySet()){
+        heap.add(entry);
+        if (heap.size() > k) {
+            heap.poll();
         }
+    }
 
-        return result;
+    for (int i = 0; i < k; i++) {
+    result[i] = heap.poll().getKey();
+}
 
-
-
-            
-            
-
-    
-
-
-        
-        
+    return result;
     }
 }

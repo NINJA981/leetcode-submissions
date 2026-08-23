@@ -29,7 +29,7 @@
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |
 | 66 | [Plus One](Easy/0066-plus-one/) | `Easy` | [`Python`](Easy/0066-plus-one/plus-one.py) |
 | 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | [`Java`](Easy/0069-sqrtx/sqrtx.java) |
-| 100 | [Same Tree](Easy/0100-same-tree/) | `Easy` | [`Java`](Easy/0100-same-tree/same-tree.java) |
+| 100 | [Same Tree](100-same-tree/) | `Easy` | [`Java`](100-same-tree/same-tree.java) [`Java`](100-same-tree/same-tree.java) |
 | 102 | [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) | `Medium` | [`Java`](Medium/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](Medium/0103-binary-tree-zigzag-level-order-traversal/) | `Medium` | [`Python`](Medium/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py) |
 | 104 | [Maximum Depth Of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) | `Easy` | [`Java`](Easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java) |

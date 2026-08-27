@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-115-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-116-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -27,7 +27,7 @@
 | 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`Java`](Medium/0049-group-anagrams/group-anagrams.java) |
 | 56 | [Merge Intervals](Medium/0056-merge-intervals/) | `Medium` | [`Java`](Medium/0056-merge-intervals/merge-intervals.java) |
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |
-| 66 | [Plus One](Easy/0066-plus-one/) | `Easy` | [`Python`](Easy/0066-plus-one/plus-one.py) |
+| 66 | [Plus One](66-plus-one/) | `Easy` | [`Python`](66-plus-one/plus-one.py) [`Python`](66-plus-one/plus-one.py) |
 | 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | [`Java`](Easy/0069-sqrtx/sqrtx.java) |
 | 100 | [Same Tree](100-same-tree/) | `Easy` | [`Java`](100-same-tree/same-tree.java) [`Java`](100-same-tree/same-tree.java) |
 | 102 | [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) | `Medium` | [`Java`](Medium/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
@@ -38,7 +38,7 @@
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 128 | [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) | `Medium` | [`Java`](Medium/0128-longest-consecutive-sequence/longest-consecutive-sequence.java) |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | [`Python`](Easy/0141-linked-list-cycle/linked-list-cycle.py) |
-| 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](Medium/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
+| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) [`Python`](150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 151 | [Reverse Words In A String](Medium/0151-reverse-words-in-a-string/) | `Medium` | [`Python`](Medium/0151-reverse-words-in-a-string/reverse-words-in-a-string.py) |
 | 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | [`Python`](Medium/0155-min-stack/min-stack.py) |
@@ -54,6 +54,7 @@
 | 225 | [Implement Stack Using Queues](Easy/0225-implement-stack-using-queues/) | `Easy` | [`Java`](Easy/0225-implement-stack-using-queues/implement-stack-using-queues.java) |
 | 226 | [Invert Binary Tree](Easy/0226-invert-binary-tree/) | `Easy` | [`Java`](Easy/0226-invert-binary-tree/invert-binary-tree.java) |
 | 228 | [Summary Ranges](Easy/0228-summary-ranges/) | `Easy` | [`Java`](Easy/0228-summary-ranges/summary-ranges.java) |
+| 230 | [Kth Smallest Element In A Bst](Medium/0230-kth-smallest-element-in-a-bst/) | `Medium` | [`Java`](Medium/0230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | `Medium` | [`Python`](Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 238 | [Product Of Array Except Self](Medium/0238-product-of-array-except-self/) | `Medium` | [`Python`](Medium/0238-product-of-array-except-self/product-of-array-except-self.py) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |
@@ -77,8 +78,8 @@
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | [`Python`](Easy/0485-max-consecutive-ones/max-consecutive-ones.py) |
 | 515 | [Find Largest Value In Each Tree Row](Medium/0515-find-largest-value-in-each-tree-row/) | `Medium` | [`Java`](Medium/0515-find-largest-value-in-each-tree-row/find-largest-value-in-each-tree-row.java) |
 | 543 | [Diameter Of Binary Tree](Easy/0543-diameter-of-binary-tree/) | `Easy` | [`Java`](Easy/0543-diameter-of-binary-tree/diameter-of-binary-tree.java) |
-| 567 | [Permutation In String](Medium/0567-permutation-in-string/) | `Medium` | [`Java`](Medium/0567-permutation-in-string/permutation-in-string.java) |
-| 572 | [Subtree Of Another Tree](Easy/0572-subtree-of-another-tree/) | `Easy` | [`Java`](Easy/0572-subtree-of-another-tree/subtree-of-another-tree.java) |
+| 567 | [Permutation In String](567-permutation-in-string/) | `Medium` | [`Java`](567-permutation-in-string/permutation-in-string.java) [`Java`](567-permutation-in-string/permutation-in-string.java) |
+| 572 | [Subtree Of Another Tree](572-subtree-of-another-tree/) | `Easy` | [`Java`](572-subtree-of-another-tree/subtree-of-another-tree.java) [`Java`](572-subtree-of-another-tree/subtree-of-another-tree.java) |
 | 605 | [Can Place Flowers](Easy/0605-can-place-flowers/) | `Easy` | [`Python`](Easy/0605-can-place-flowers/can-place-flowers.py) |
 | 636 | [Exclusive Time Of Functions](Medium/0636-exclusive-time-of-functions/) | `Medium` | [`Python`](Medium/0636-exclusive-time-of-functions/exclusive-time-of-functions.py) |
 | 637 | [Average Of Levels In Binary Tree](Easy/0637-average-of-levels-in-binary-tree/) | `Easy` | [`Java`](Easy/0637-average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.java) |
@@ -129,4 +130,4 @@
 
 ---
 
-<div align="center"><sub>Synced automatically with <a href="https://github.com/NINJA981/leetcode-submissions">LeetSync Squads</a></sub></div>
+<div align="center"><sub>Synced automatically with <a href="https://github.com/NINJA981/leetcode-submissions">LeetX Squads</a></sub></div>

@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-119-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-120-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -24,6 +24,7 @@
 | 31 | [Next Permutation](Medium/0031-next-permutation/) | `Medium` | [`Java`](Medium/0031-next-permutation/next-permutation.java) |
 | 33 | [Search In Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.java) |
 | 35 | [Search Insert Position](Easy/0035-search-insert-position/) | `Easy` | [`Java`](Easy/0035-search-insert-position/search-insert-position.java) |
+| 39 | [Combination Sum](Medium/0039-combination-sum/) | `Medium` | [`Java`](Medium/0039-combination-sum/combination-sum.java) |
 | 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`Java`](Medium/0049-group-anagrams/group-anagrams.java) |
 | 56 | [Merge Intervals](Medium/0056-merge-intervals/) | `Medium` | [`Java`](Medium/0056-merge-intervals/merge-intervals.java) |
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |
@@ -62,7 +63,7 @@
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |
 | 268 | [Missing Number](Easy/0268-missing-number/) | `Easy` | [`Java`](Easy/0268-missing-number/missing-number.java) |
 | 278 | [First Bad Version](Easy/0278-first-bad-version/) | `Easy` | [`Java`](Easy/0278-first-bad-version/first-bad-version.java) |
-| 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | [`Python`](Easy/0283-move-zeroes/move-zeroes.py) |
+| 283 | [Move Zeroes](283-move-zeroes/) | `Easy` | [`Java`](283-move-zeroes/move-zeroes.java) [`Python`](283-move-zeroes/move-zeroes.py) |
 | 290 | [Word Pattern](Easy/0290-word-pattern/) | `Easy` | [`Java`](Easy/0290-word-pattern/word-pattern.java) |
 | 303 | [Range Sum Query Immutable](Easy/0303-range-sum-query-immutable/) | `Easy` | [`Java`](Easy/0303-range-sum-query-immutable/range-sum-query-immutable.java) |
 | 334 | [Increasing Triplet Subsequence](Medium/0334-increasing-triplet-subsequence/) | `Medium` | [`Python`](Medium/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py) |

@@ -28,11 +28,11 @@
 | 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`Java`](Medium/0049-group-anagrams/group-anagrams.java) |
 | 56 | [Merge Intervals](Medium/0056-merge-intervals/) | `Medium` | [`Java`](Medium/0056-merge-intervals/merge-intervals.java) |
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |
-| 66 | [Plus One](66-plus-one/) | `Easy` | [`Python`](66-plus-one/plus-one.py) [`Python`](66-plus-one/plus-one.py) |
+| 66 | [Plus One](Easy/0066-plus-one/) | `Easy` | [`Python`](Easy/0066-plus-one/plus-one.py) |
 | 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | [`Java`](Easy/0069-sqrtx/sqrtx.java) |
-| 77 | [Combinations](77-combinations/) | `Medium` | [`Java`](77-combinations/combinations.java) |
-| 78 | [Subsets](78-subsets/) | `Medium` | [`Java`](78-subsets/subsets.java) [`Java`](78-subsets/subsets.java) |
-| 100 | [Same Tree](100-same-tree/) | `Easy` | [`Java`](100-same-tree/same-tree.java) [`Java`](100-same-tree/same-tree.java) |
+| 77 | [Combinations](Medium/0077-combinations/) | `Medium` | [`Java`](Medium/0077-combinations/combinations.java) |
+| 78 | [Subsets](Medium/0078-subsets/) | `Medium` | [`Java`](Medium/0078-subsets/subsets.java) |
+| 100 | [Same Tree](Easy/0100-same-tree/) | `Easy` | [`Java`](Easy/0100-same-tree/same-tree.java) |
 | 102 | [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) | `Medium` | [`Java`](Medium/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](Medium/0103-binary-tree-zigzag-level-order-traversal/) | `Medium` | [`Python`](Medium/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py) |
 | 104 | [Maximum Depth Of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) | `Easy` | [`Java`](Easy/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java) |
@@ -41,7 +41,7 @@
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 128 | [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) | `Medium` | [`Java`](Medium/0128-longest-consecutive-sequence/longest-consecutive-sequence.java) |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | [`Python`](Easy/0141-linked-list-cycle/linked-list-cycle.py) |
-| 150 | [Evaluate Reverse Polish Notation](150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) [`Python`](150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
+| 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](Medium/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 151 | [Reverse Words In A String](Medium/0151-reverse-words-in-a-string/) | `Medium` | [`Python`](Medium/0151-reverse-words-in-a-string/reverse-words-in-a-string.py) |
 | 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | [`Python`](Medium/0155-min-stack/min-stack.py) |
@@ -63,7 +63,7 @@
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |
 | 268 | [Missing Number](Easy/0268-missing-number/) | `Easy` | [`Java`](Easy/0268-missing-number/missing-number.java) |
 | 278 | [First Bad Version](Easy/0278-first-bad-version/) | `Easy` | [`Java`](Easy/0278-first-bad-version/first-bad-version.java) |
-| 283 | [Move Zeroes](283-move-zeroes/) | `Easy` | [`Java`](283-move-zeroes/move-zeroes.java) [`Python`](283-move-zeroes/move-zeroes.py) |
+| 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | [`Java`](Easy/0283-move-zeroes/move-zeroes.java) [`Python`](Easy/0283-move-zeroes/move-zeroes.py) |
 | 290 | [Word Pattern](Easy/0290-word-pattern/) | `Easy` | [`Java`](Easy/0290-word-pattern/word-pattern.java) |
 | 303 | [Range Sum Query Immutable](Easy/0303-range-sum-query-immutable/) | `Easy` | [`Java`](Easy/0303-range-sum-query-immutable/range-sum-query-immutable.java) |
 | 334 | [Increasing Triplet Subsequence](Medium/0334-increasing-triplet-subsequence/) | `Medium` | [`Python`](Medium/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py) |
@@ -79,10 +79,11 @@
 | 443 | [String Compression](Medium/0443-string-compression/) | `Medium` | [`Python`](Medium/0443-string-compression/string-compression.py) |
 | 448 | [Find All Numbers Disappeared In An Array](Easy/0448-find-all-numbers-disappeared-in-an-array/) | `Easy` | [`Python`](Easy/0448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | [`Python`](Easy/0485-max-consecutive-ones/max-consecutive-ones.py) |
+| 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Java`](Easy/0509-fibonacci-number/fibonacci-number.java) |
 | 515 | [Find Largest Value In Each Tree Row](Medium/0515-find-largest-value-in-each-tree-row/) | `Medium` | [`Java`](Medium/0515-find-largest-value-in-each-tree-row/find-largest-value-in-each-tree-row.java) |
 | 543 | [Diameter Of Binary Tree](Easy/0543-diameter-of-binary-tree/) | `Easy` | [`Java`](Easy/0543-diameter-of-binary-tree/diameter-of-binary-tree.java) |
-| 567 | [Permutation In String](567-permutation-in-string/) | `Medium` | [`Java`](567-permutation-in-string/permutation-in-string.java) [`Java`](567-permutation-in-string/permutation-in-string.java) |
-| 572 | [Subtree Of Another Tree](572-subtree-of-another-tree/) | `Easy` | [`Java`](572-subtree-of-another-tree/subtree-of-another-tree.java) [`Java`](572-subtree-of-another-tree/subtree-of-another-tree.java) |
+| 567 | [Permutation In String](Medium/0567-permutation-in-string/) | `Medium` | [`Java`](Medium/0567-permutation-in-string/permutation-in-string.java) |
+| 572 | [Subtree Of Another Tree](Easy/0572-subtree-of-another-tree/) | `Easy` | [`Java`](Easy/0572-subtree-of-another-tree/subtree-of-another-tree.java) |
 | 605 | [Can Place Flowers](Easy/0605-can-place-flowers/) | `Easy` | [`Python`](Easy/0605-can-place-flowers/can-place-flowers.py) |
 | 636 | [Exclusive Time Of Functions](Medium/0636-exclusive-time-of-functions/) | `Medium` | [`Python`](Medium/0636-exclusive-time-of-functions/exclusive-time-of-functions.py) |
 | 637 | [Average Of Levels In Binary Tree](Easy/0637-average-of-levels-in-binary-tree/) | `Easy` | [`Java`](Easy/0637-average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.java) |
@@ -102,7 +103,6 @@
 | 933 | [Number Of Recent Calls](Easy/0933-number-of-recent-calls/) | `Easy` | [`Java`](Easy/0933-number-of-recent-calls/number-of-recent-calls.java) |
 | 977 | [Squares Of A Sorted Array](Easy/0977-squares-of-a-sorted-array/) | `Easy` | [`Python`](Easy/0977-squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
 | 1004 | [Max Consecutive Ones Iii](Medium/1004-max-consecutive-ones-iii/) | `Medium` | [`Python`](Medium/1004-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
-| 1013 | [Fibonacci Number](1013-fibonacci-number/) | `Easy` | [`Java`](1013-fibonacci-number/fibonacci-number.java) [`Java`](1013-fibonacci-number/fibonacci-number.java) |
 | 1046 | [Last Stone Weight](Easy/1046-last-stone-weight/) | `Easy` | [`Python`](Easy/1046-last-stone-weight/last-stone-weight.py) |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) | `Easy` | [`Java`](Easy/1047-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) |
 | 1052 | [Grumpy Bookstore Owner](Medium/1052-grumpy-bookstore-owner/) | `Medium` | [`Java`](Medium/1052-grumpy-bookstore-owner/grumpy-bookstore-owner.java) |

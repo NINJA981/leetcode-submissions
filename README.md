@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-117-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-119-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -29,6 +29,8 @@
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |
 | 66 | [Plus One](66-plus-one/) | `Easy` | [`Python`](66-plus-one/plus-one.py) [`Python`](66-plus-one/plus-one.py) |
 | 69 | [Sqrtx](Easy/0069-sqrtx/) | `Easy` | [`Java`](Easy/0069-sqrtx/sqrtx.java) |
+| 77 | [Combinations](77-combinations/) | `Medium` | [`Java`](77-combinations/combinations.java) |
+| 78 | [Subsets](78-subsets/) | `Medium` | [`Java`](78-subsets/subsets.java) [`Java`](78-subsets/subsets.java) |
 | 100 | [Same Tree](100-same-tree/) | `Easy` | [`Java`](100-same-tree/same-tree.java) [`Java`](100-same-tree/same-tree.java) |
 | 102 | [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) | `Medium` | [`Java`](Medium/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](Medium/0103-binary-tree-zigzag-level-order-traversal/) | `Medium` | [`Python`](Medium/0103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py) |

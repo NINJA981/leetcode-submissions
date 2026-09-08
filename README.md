@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-120-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-121-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -25,6 +25,7 @@
 | 33 | [Search In Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.java) |
 | 35 | [Search Insert Position](Easy/0035-search-insert-position/) | `Easy` | [`Java`](Easy/0035-search-insert-position/search-insert-position.java) |
 | 39 | [Combination Sum](Medium/0039-combination-sum/) | `Medium` | [`Java`](Medium/0039-combination-sum/combination-sum.java) |
+| 40 | [Combination Sum Ii](Medium/0040-combination-sum-ii/) | `Medium` | [`Java`](Medium/0040-combination-sum-ii/combination-sum-ii.java) |
 | 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`Java`](Medium/0049-group-anagrams/group-anagrams.java) |
 | 56 | [Merge Intervals](Medium/0056-merge-intervals/) | `Medium` | [`Java`](Medium/0056-merge-intervals/merge-intervals.java) |
 | 57 | [Insert Interval](Medium/0057-insert-interval/) | `Medium` | [`Java`](Medium/0057-insert-interval/insert-interval.java) |

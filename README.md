@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-122-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-123-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -84,6 +84,7 @@
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Java`](Easy/0509-fibonacci-number/fibonacci-number.java) |
 | 515 | [Find Largest Value In Each Tree Row](Medium/0515-find-largest-value-in-each-tree-row/) | `Medium` | [`Java`](Medium/0515-find-largest-value-in-each-tree-row/find-largest-value-in-each-tree-row.java) |
 | 543 | [Diameter Of Binary Tree](Easy/0543-diameter-of-binary-tree/) | `Easy` | [`Java`](Easy/0543-diameter-of-binary-tree/diameter-of-binary-tree.java) |
+| 560 | [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) | `Medium` | [`Java`](Medium/0560-subarray-sum-equals-k/subarray-sum-equals-k.java) |
 | 567 | [Permutation In String](Medium/0567-permutation-in-string/) | `Medium` | [`Java`](Medium/0567-permutation-in-string/permutation-in-string.java) |
 | 572 | [Subtree Of Another Tree](Easy/0572-subtree-of-another-tree/) | `Easy` | [`Java`](Easy/0572-subtree-of-another-tree/subtree-of-another-tree.java) |
 | 605 | [Can Place Flowers](Easy/0605-can-place-flowers/) | `Easy` | [`Python`](Easy/0605-can-place-flowers/can-place-flowers.py) |

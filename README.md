@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-123-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-124-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -97,6 +97,7 @@
 | 703 | [Kth Largest Element In A Stream](Easy/0703-kth-largest-element-in-a-stream/) | `Easy` | [`Java`](Easy/0703-kth-largest-element-in-a-stream/kth-largest-element-in-a-stream.java) |
 | 704 | [Binary Search](Easy/0704-binary-search/) | `Easy` | [`Java`](Easy/0704-binary-search/binary-search.java) |
 | 724 | [Find Pivot Index](Easy/0724-find-pivot-index/) | `Easy` | [`Java`](Easy/0724-find-pivot-index/find-pivot-index.java) |
+| 733 | [Flood Fill](Easy/0733-flood-fill/) | `Easy` | [`Java`](Easy/0733-flood-fill/flood-fill.java) |
 | 735 | [Asteroid Collision](Medium/0735-asteroid-collision/) | `Medium` | [`Python`](Medium/0735-asteroid-collision/asteroid-collision.py) |
 | 739 | [Daily Temperatures](Medium/0739-daily-temperatures/) | `Medium` | [`Python`](Medium/0739-daily-temperatures/daily-temperatures.py) |
 | 844 | [Backspace String Compare](Easy/0844-backspace-string-compare/) | `Easy` | [`Python`](Easy/0844-backspace-string-compare/backspace-string-compare.py) |

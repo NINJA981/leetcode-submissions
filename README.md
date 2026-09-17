@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-124-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-125-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -50,6 +50,7 @@
 | 169 | [Majority Element](Easy/0169-majority-element/) | `Easy` | [`Java`](Easy/0169-majority-element/majority-element.java) |
 | 191 | [Number Of 1 Bits](Easy/0191-number-of-1-bits/) | `Easy` | [`Java`](Easy/0191-number-of-1-bits/number-of-1-bits.java) |
 | 199 | [Binary Tree Right Side View](Medium/0199-binary-tree-right-side-view/) | `Medium` | [`Java`](Medium/0199-binary-tree-right-side-view/binary-tree-right-side-view.java) |
+| 200 | [Number Of Islands](Medium/0200-number-of-islands/) | `Medium` | [`Java`](Medium/0200-number-of-islands/number-of-islands.java) |
 | 205 | [Isomorphic Strings](Easy/0205-isomorphic-strings/) | `Easy` | [`Java`](Easy/0205-isomorphic-strings/isomorphic-strings.java) |
 | 206 | [Reverse Linked List](Easy/0206-reverse-linked-list/) | `Easy` | [`Python`](Easy/0206-reverse-linked-list/reverse-linked-list.py) |
 | 209 | [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) | `Medium` | [`Java`](Medium/0209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |

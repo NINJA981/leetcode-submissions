@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-130-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-131-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -42,6 +42,7 @@
 | 112 | [Path Sum](Easy/0112-path-sum/) | `Easy` | [`Java`](Easy/0112-path-sum/path-sum.java) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 128 | [Longest Consecutive Sequence](Medium/0128-longest-consecutive-sequence/) | `Medium` | [`Java`](Medium/0128-longest-consecutive-sequence/longest-consecutive-sequence.java) |
+| 136 | [Single Number](Easy/0136-single-number/) | `Easy` | [`Java`](Easy/0136-single-number/single-number.java) |
 | 141 | [Linked List Cycle](Easy/0141-linked-list-cycle/) | `Easy` | [`Python`](Easy/0141-linked-list-cycle/linked-list-cycle.py) |
 | 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](Medium/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 151 | [Reverse Words In A String](Medium/0151-reverse-words-in-a-string/) | `Medium` | [`Python`](Medium/0151-reverse-words-in-a-string/reverse-words-in-a-string.py) |

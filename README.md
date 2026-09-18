@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-132-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-133-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -62,6 +62,7 @@
 | 226 | [Invert Binary Tree](Easy/0226-invert-binary-tree/) | `Easy` | [`Java`](Easy/0226-invert-binary-tree/invert-binary-tree.java) |
 | 228 | [Summary Ranges](Easy/0228-summary-ranges/) | `Easy` | [`Java`](Easy/0228-summary-ranges/summary-ranges.java) |
 | 230 | [Kth Smallest Element In A Bst](Medium/0230-kth-smallest-element-in-a-bst/) | `Medium` | [`Java`](Medium/0230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
+| 231 | [Power Of Two](Easy/0231-power-of-two/) | `Easy` | [`Java`](Easy/0231-power-of-two/power-of-two.java) |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | `Medium` | [`Python`](Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
 | 238 | [Product Of Array Except Self](Medium/0238-product-of-array-except-self/) | `Medium` | [`Python`](Medium/0238-product-of-array-except-self/product-of-array-except-self.py) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Java`](Easy/0242-valid-anagram/valid-anagram.java) |

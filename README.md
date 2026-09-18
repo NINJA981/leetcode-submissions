@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-125-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-126-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -107,6 +107,7 @@
 | 904 | [Fruit Into Baskets](Medium/0904-fruit-into-baskets/) | `Medium` | [`Java`](Medium/0904-fruit-into-baskets/fruit-into-baskets.java) |
 | 933 | [Number Of Recent Calls](Easy/0933-number-of-recent-calls/) | `Easy` | [`Java`](Easy/0933-number-of-recent-calls/number-of-recent-calls.java) |
 | 977 | [Squares Of A Sorted Array](Easy/0977-squares-of-a-sorted-array/) | `Easy` | [`Python`](Easy/0977-squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
+| 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1004 | [Max Consecutive Ones Iii](Medium/1004-max-consecutive-ones-iii/) | `Medium` | [`Python`](Medium/1004-max-consecutive-ones-iii/max-consecutive-ones-iii.py) |
 | 1046 | [Last Stone Weight](Easy/1046-last-stone-weight/) | `Easy` | [`Python`](Easy/1046-last-stone-weight/last-stone-weight.py) |
 | 1047 | [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) | `Easy` | [`Java`](Easy/1047-remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.java) |

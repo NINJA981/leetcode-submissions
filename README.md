@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-126-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-127-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -88,6 +88,7 @@
 | 560 | [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) | `Medium` | [`Java`](Medium/0560-subarray-sum-equals-k/subarray-sum-equals-k.java) |
 | 567 | [Permutation In String](Medium/0567-permutation-in-string/) | `Medium` | [`Java`](Medium/0567-permutation-in-string/permutation-in-string.java) |
 | 572 | [Subtree Of Another Tree](Easy/0572-subtree-of-another-tree/) | `Easy` | [`Java`](Easy/0572-subtree-of-another-tree/subtree-of-another-tree.java) |
+| 599 | [Minimum Index Sum Of Two Lists](Easy/0599-minimum-index-sum-of-two-lists/) | `Easy` | [`Java`](Easy/0599-minimum-index-sum-of-two-lists/minimum-index-sum-of-two-lists.java) |
 | 605 | [Can Place Flowers](Easy/0605-can-place-flowers/) | `Easy` | [`Python`](Easy/0605-can-place-flowers/can-place-flowers.py) |
 | 636 | [Exclusive Time Of Functions](Medium/0636-exclusive-time-of-functions/) | `Medium` | [`Python`](Medium/0636-exclusive-time-of-functions/exclusive-time-of-functions.py) |
 | 637 | [Average Of Levels In Binary Tree](Easy/0637-average-of-levels-in-binary-tree/) | `Easy` | [`Java`](Easy/0637-average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.java) |

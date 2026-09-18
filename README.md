@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-131-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-132-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -71,6 +71,7 @@
 | 290 | [Word Pattern](Easy/0290-word-pattern/) | `Easy` | [`Java`](Easy/0290-word-pattern/word-pattern.java) |
 | 303 | [Range Sum Query Immutable](Easy/0303-range-sum-query-immutable/) | `Easy` | [`Java`](Easy/0303-range-sum-query-immutable/range-sum-query-immutable.java) |
 | 334 | [Increasing Triplet Subsequence](Medium/0334-increasing-triplet-subsequence/) | `Medium` | [`Python`](Medium/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py) |
+| 338 | [Counting Bits](Easy/0338-counting-bits/) | `Easy` | [`Java`](Easy/0338-counting-bits/counting-bits.java) |
 | 344 | [Reverse String](Easy/0344-reverse-string/) | `Easy` | [`Python`](Easy/0344-reverse-string/reverse-string.py) |
 | 345 | [Reverse Vowels Of A String](Easy/0345-reverse-vowels-of-a-string/) | `Easy` | [`Python`](Easy/0345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.py) |
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Java`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.java) |

@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-133-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-134-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -49,6 +49,7 @@
 | 153 | [Find Minimum In Rotated Sorted Array](Medium/0153-find-minimum-in-rotated-sorted-array/) | `Medium` | [`Java`](Medium/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
 | 155 | [Min Stack](Medium/0155-min-stack/) | `Medium` | [`Python`](Medium/0155-min-stack/min-stack.py) |
 | 169 | [Majority Element](Easy/0169-majority-element/) | `Easy` | [`Java`](Easy/0169-majority-element/majority-element.java) |
+| 190 | [Reverse Bits](Easy/0190-reverse-bits/) | `Easy` | [`Java`](Easy/0190-reverse-bits/reverse-bits.java) |
 | 191 | [Number Of 1 Bits](Easy/0191-number-of-1-bits/) | `Easy` | [`Java`](Easy/0191-number-of-1-bits/number-of-1-bits.java) |
 | 199 | [Binary Tree Right Side View](Medium/0199-binary-tree-right-side-view/) | `Medium` | [`Java`](Medium/0199-binary-tree-right-side-view/binary-tree-right-side-view.java) |
 | 200 | [Number Of Islands](Medium/0200-number-of-islands/) | `Medium` | [`Java`](Medium/0200-number-of-islands/number-of-islands.java) |

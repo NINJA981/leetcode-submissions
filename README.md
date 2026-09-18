@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-127-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-128-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -102,6 +102,7 @@
 | 733 | [Flood Fill](Easy/0733-flood-fill/) | `Easy` | [`Java`](Easy/0733-flood-fill/flood-fill.java) |
 | 735 | [Asteroid Collision](Medium/0735-asteroid-collision/) | `Medium` | [`Python`](Medium/0735-asteroid-collision/asteroid-collision.py) |
 | 739 | [Daily Temperatures](Medium/0739-daily-temperatures/) | `Medium` | [`Python`](Medium/0739-daily-temperatures/daily-temperatures.py) |
+| 804 | [Unique Morse Code Words](Easy/0804-unique-morse-code-words/) | `Easy` | [`Java`](Easy/0804-unique-morse-code-words/unique-morse-code-words.java) |
 | 844 | [Backspace String Compare](Easy/0844-backspace-string-compare/) | `Easy` | [`Python`](Easy/0844-backspace-string-compare/backspace-string-compare.py) |
 | 872 | [Leaf Similar Trees](Easy/0872-leaf-similar-trees/) | `Easy` | [`Python`](Easy/0872-leaf-similar-trees/leaf-similar-trees.py) |
 | 876 | [Middle Of The Linked List](Easy/0876-middle-of-the-linked-list/) | `Easy` | [`Python`](Easy/0876-middle-of-the-linked-list/middle-of-the-linked-list.py) |

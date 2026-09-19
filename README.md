@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-134-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-135-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -85,6 +85,7 @@
 | 435 | [Non Overlapping Intervals](Medium/0435-non-overlapping-intervals/) | `Medium` | [`Java`](Medium/0435-non-overlapping-intervals/non-overlapping-intervals.java) |
 | 443 | [String Compression](Medium/0443-string-compression/) | `Medium` | [`Python`](Medium/0443-string-compression/string-compression.py) |
 | 448 | [Find All Numbers Disappeared In An Array](Easy/0448-find-all-numbers-disappeared-in-an-array/) | `Easy` | [`Python`](Easy/0448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py) |
+| 461 | [Hamming Distance](Easy/0461-hamming-distance/) | `Easy` | [`Java`](Easy/0461-hamming-distance/hamming-distance.java) |
 | 485 | [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) | `Easy` | [`Python`](Easy/0485-max-consecutive-ones/max-consecutive-ones.py) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Java`](Easy/0509-fibonacci-number/fibonacci-number.java) |
 | 515 | [Find Largest Value In Each Tree Row](Medium/0515-find-largest-value-in-each-tree-row/) | `Medium` | [`Java`](Medium/0515-find-largest-value-in-each-tree-row/find-largest-value-in-each-tree-row.java) |

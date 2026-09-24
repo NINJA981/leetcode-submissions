@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/NINJA981/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-137-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-138-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -148,6 +148,7 @@
 | 2390 | [Removing Stars From A String](Medium/2390-removing-stars-from-a-string/) | `Medium` | [`Python`](Medium/2390-removing-stars-from-a-string/removing-stars-from-a-string.py) |
 | 2410 | [Maximum Matching Of Players With Trainers](Medium/2410-maximum-matching-of-players-with-trainers/) | `Medium` | [`Java`](Medium/2410-maximum-matching-of-players-with-trainers/maximum-matching-of-players-with-trainers.java) |
 | 3498 | [Reverse Degree Of A String](Easy/3498-reverse-degree-of-a-string/) | `Easy` | [`Java`](Easy/3498-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
+| 3524 | [Find X Value Of Array I](Medium/3524-find-x-value-of-array-i/) | `Medium` | [`Java`](Medium/3524-find-x-value-of-array-i/find-x-value-of-array-i.java) |
 
 ---
 

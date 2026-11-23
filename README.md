@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**144** problems solved — 86 easy · 58 medium · 0 hard
+**145** problems solved — 87 easy · 58 medium · 0 hard
 
 | # | Problem | Difficulty | Solution | Notes |
 | ---: | :--- | :--- | :--- | :---: |
@@ -27,6 +27,7 @@
 | 58 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Java](Easy/0058-length-of-last-word/length-of-last-word.java) |  |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](Easy/0066-plus-one/plus-one.py) |  |
 | 69 | [Sqrtx](https://leetcode.com/problems/sqrtx/) | Easy | [Java](Easy/0069-sqrtx/sqrtx.java) |  |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Java](Easy/0070-climbing-stairs/climbing-stairs.java) |  |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Java](Medium/0077-combinations/combinations.java) |  |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Java](Medium/0078-subsets/subsets.java) |  |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Java](Easy/0100-same-tree/same-tree.java) |  |

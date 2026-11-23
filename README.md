@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**143** problems solved — 86 easy · 57 medium · 0 hard
+**144** problems solved — 86 easy · 58 medium · 0 hard
 
 | # | Problem | Difficulty | Solution | Notes |
 | ---: | :--- | :--- | :--- | :---: |
@@ -16,6 +16,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Python](Easy/0027-remove-element/remove-element.py) |  |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Java](Medium/0031-next-permutation/next-permutation.java) |  |
 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Java](Medium/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.java) |  |
+| 34 | [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Java](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.java) |  |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Java](Easy/0035-search-insert-position/search-insert-position.java) |  |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Java](Medium/0039-combination-sum/combination-sum.java) |  |
 | 40 | [Combination Sum Ii](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Java](Medium/0040-combination-sum-ii/combination-sum-ii.java) |  |

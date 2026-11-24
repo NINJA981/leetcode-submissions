@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**145** problems solved — 87 easy · 58 medium · 0 hard
+**146** problems solved — 87 easy · 59 medium · 0 hard
 
 | # | Problem | Difficulty | Solution | Notes |
 | ---: | :--- | :--- | :--- | :---: |
@@ -110,6 +110,7 @@
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [Java](Easy/0804-unique-morse-code-words/unique-morse-code-words.java) |  |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Python](Easy/0844-backspace-string-compare/backspace-string-compare.py) |  |
 | 872 | [Leaf Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | [Python](Easy/0872-leaf-similar-trees/leaf-similar-trees.py) |  |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Java](Medium/0875-koko-eating-bananas/koko-eating-bananas.java) |  |
 | 876 | [Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Python](Easy/0876-middle-of-the-linked-list/middle-of-the-linked-list.py) |  |
 | 881 | [Boats To Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Java](Medium/0881-boats-to-save-people/boats-to-save-people.java) |  |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Java](Medium/0904-fruit-into-baskets/fruit-into-baskets.java) |  |

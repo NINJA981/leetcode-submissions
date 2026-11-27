@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**146** problems solved — 87 easy · 59 medium · 0 hard
+**147** problems solved — 87 easy · 60 medium · 0 hard
 
 | # | Problem | Difficulty | Solution | Notes |
 | ---: | :--- | :--- | :--- | :---: |
@@ -68,6 +68,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Java](Easy/0283-move-zeroes/move-zeroes.java) · [Python](Easy/0283-move-zeroes/move-zeroes.py) |  |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Java](Easy/0290-word-pattern/word-pattern.java) |  |
 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Java](Easy/0303-range-sum-query-immutable/range-sum-query-immutable.java) |  |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Java](Medium/0328-odd-even-linked-list/odd-even-linked-list.java) |  |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [Python](Medium/0334-increasing-triplet-subsequence/increasing-triplet-subsequence.py) |  |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Java](Easy/0338-counting-bits/counting-bits.java) |  |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Python](Easy/0344-reverse-string/reverse-string.py) |  |
